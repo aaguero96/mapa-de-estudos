@@ -1,0 +1,17 @@
+- Como ler arquivos
+- Como escrever arquivos
+- Como editar arquivos
+- Conceitos de http e https
+- Conceitos de backend
+- O que é REST
+- Outras requisições (SOAP, gRPC, GraphQL)
+- Conceitos metodos http (GET, POST, PUT, DELETE)
+- Status code (2XX, 4XX, 5XX)
+- Analisando requisições em um site qualquer
+- O que são portas
+- Criação de primeira rota POST utilizando http
+- Criação de primeira rota GET utilizando http
+- Criação de primeira rota PUT utilizando http
+- Criação de primeira rota DELETE utilizando http
+- O que é um CRUD
+- Testes manuais nas rotas (postman)

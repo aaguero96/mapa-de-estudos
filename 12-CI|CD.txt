@@ -1,0 +1,6 @@
+- O que é CI
+- Como criar uma CI no github
+- O que é um deploy
+- Criando um deploy da aplicação
+- O que é CD
+- Como criar uma CD no github

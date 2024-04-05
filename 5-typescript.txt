@@ -1,0 +1,18 @@
+- O que é typescript
+- Iniciando um projeto typescript
+- O que é a pasta tsconfig
+- O que é a pasta dist
+- Tipando variaveis (numbers, boolean, array, functions)
+- Criando um alias (type)
+- Criando enum
+- Criando interfaces
+- Tipando objetos (com interfaces ou tipos genericos)
+- Implementando uma classe (implement)
+- Extendendo uma classe (extend)
+- Criando classes abstratas
+- Métodos abstratos
+- Utilizando classes abstratas
+- Generic functions
+- Generic Classes
+- Tipando Promises
+- Principios do SOLID

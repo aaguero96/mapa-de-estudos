@@ -1,0 +1,16 @@
+- O que é npm
+- O que é npx
+- Como adicionar uma lib globalmente (Comando npm install)
+- Como usar uma lib externa (Comandos com npx)
+- Como iniciar o npm no projeto (Comando npm init -y)
+- Como adicionar uma lib localmente (Comando npm install)
+- Olhando o node_modules
+- Olhando o package-lock.json
+- Olhando o package.json
+- Adicionando um comando npm start
+- Adicionando um comando npm run hello
+- Comando npm install (npm i)
+- Comando npm uninstall
+- Como criar um pacote no npm
+- Como subir um pacote no npm
+- Comando npm update (--save)

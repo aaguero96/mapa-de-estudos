@@ -1,0 +1,22 @@
+- O que é uma arquitetura em camadas
+- O que é um repository
+- O que é um model/entity
+- O que é um controller
+- O que é um service
+- Conceitos de DDD
+- O que é um domain
+- Criando um sistema de transferencia de carteiras
+- Conceitos de transactions
+- Conceitos de injeção de dependencia
+- Criação da tabela usuários
+- Utilização de criptografia de senhas
+- Conceitos de middlewares
+- O que é JWT
+- Uso de login do usuário
+- Criação de JWT
+- Criando testes unitários
+- Criando testes de integração
+- Criando arquivo Dockerfile
+- Criando arquivo docker-compose
+- O que é swagger
+- Criando swagger

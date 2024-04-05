@@ -1,0 +1,26 @@
+- O que é git
+- O que é uma branch
+- O que é um commit
+- O que é um merge
+- Comando git init
+- Comando git status
+- Comando git add
+- Comando git commit
+- Comando git branch (-m, -D)
+- Comando git chekcout (-b)
+- Comando git merge
+- Comando git log
+- Comando git stash
+- Comando git rebase
+- Conectando git com github
+- Comando git push
+- Comando git pull
+- Comando git cherry-pick
+- Criando chave SSH
+- Comando git clone
+- Case com varias pessoas codando
+- Uso de commit semantico
+- Criação de PR
+- Code review em aula
+- Arquivo .gitignore
+- Arquivo .gitkeep

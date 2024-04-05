@@ -1,0 +1,57 @@
+- O que é nodejs
+- O que é javascript
+- Comando console.log (Hello world)
+- Como definir uma variavel (var, const, let)
+- Tipos de variaveis basicas (String, Boolean, Number)
+- Comando typeof
+- Explicando nomes de variaveis (camelCase, snake_case)
+- Operações aritimeticas (+ - * / % += -=)
+- Operações lógicas (== === != !== > >= < <= && || !)
+- Tipo de variavel String
+- Pegar um elemento de uma String
+- Comandos de String (replace, substring, repeat, constains)
+- Tipo de variavel undefined, null e NaN
+- Tipo de variavel Array
+- Pegar um elemento de um Array
+- Alterando um elemento de um Array
+- Comandos para Array (push, unshift, pop, shift, length, indexOf)
+- Tipo de variavel Objeto
+- Pegar valor do Objeto
+- Chaves e valores do Objeto
+- Adicionando valor no Objeto
+- Alterando valor no Objeto
+- Comandos para Objeto (Object.values, Object.keys, Object.entries)
+- O 'problema de memoria'
+- Como alterar tipos
+- Tipo JSON
+- Aplicações JSON
+- Decriptando e encriptando JSON (parse e stringfy)
+- Estrutura if/else
+- Estrutura switch/case
+- Estrutura for
+- Estrutura for of
+- Estrutura for in
+- Funções (function)
+- Arrow functions
+- Funções anonimas
+- Funcões de ordem superior
+- Metodos que usam callback (map, filter, sort, find, some, every, forEach, reduce)
+- Operador spread em Objetos e Arrays
+- Tipo de variavel Class
+- Definindo propriedades
+- O que é this
+- Instanciando uma Classe
+- Constructor
+- Getters e Setters de propriedades
+- Metodos de classe
+- Tipos de metodos e propriedades (private, public, protected, readonly)
+- Tipo de variavel Error
+- Throw Error
+- Estrutura try/catch
+- Estrutura try/catch/finally
+- Promises
+- Funções asincronas
+- Como exportar variaveis
+- Como importar variaveis
+- Decorators
+- Como debugar

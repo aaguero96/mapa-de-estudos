@@ -1,0 +1,9 @@
+- O que é express
+- Criação de um CRUD
+- Usando persistencia (postgres)
+- Usando persistencia (mongodb)
+- O que é typeORM
+- Testando com postman
+- Criando organização no postman
+- Criando arquivo Dockerfile
+- Criando arquivo docker-compose

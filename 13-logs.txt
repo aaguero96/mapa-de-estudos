@@ -1,0 +1,4 @@
+- O que são logs
+- Como logs ajudam na aplicação
+- PinoLogger
+- Bugsnag

@@ -1,0 +1,38 @@
+- O que é SQL
+- Qual a diferença entre NoSQL e SQL
+- Tipos de SQL (Postgres, MySQL, Oracle)
+- Tipos de NoSQL (mongoDB, dynamoDB)
+- Aprendendo postgres
+- Mapa de tabelas e relações
+- Comando CREATE DATABASE
+- Comando USE
+- Tipos de dados SQL
+- Primary key
+- Foreign key
+- Comando CREATE TABLE
+- Comando INSERT INTO (um dado e varios dados)
+- Comando UPDATE
+- Comando DELETE
+- Comando SELECT
+- Comando DISTINCT
+- Comando COUNT
+- Comando WHEN/THEN/ELSE
+- Comando WHERE
+- Trabalhando com datas
+- COMANDO LIMIT
+- Comando ORDER BY
+- Comando SUM
+- Comando AVG
+- Comando GROUP BY
+- Comando HAVING BY
+- Comando JOIN (LEFT, RIGHT, INNER)
+- Aprendendo mongoDB
+- Tipos de dados
+- Utilizando playground mongoDB
+- Comando createCollection
+- Comando insertOne
+- Comando updateOne
+- Comando deleteOne
+- Comando findOne
+- Comando count
+- Comando limit

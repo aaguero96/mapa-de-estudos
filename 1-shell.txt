@@ -1,0 +1,18 @@
+- O que é Unix, Kernel e Shell
+- Tipos de Shell (SH, BASH, CSH, TCSH, ZSH)
+- Explicando pastas (. .. / ~)
+- Comando pwd
+- Comando ls
+- Comando cd
+- Comando touch
+- Comando mkdir
+- Comando cat
+- Comando echo
+- Comando find
+- Comando head e tail
+- Comando mv
+- Comando cp
+- Comando rm
+- Aninhando comandos (&)
+- Comandos em mais de uma linha (\)
+- Comandos sudo

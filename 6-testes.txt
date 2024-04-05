@@ -1,0 +1,12 @@
+- O que são testes
+- O que é jest
+- tipos de testes (unitário, integração, e2e ...)
+- Criando testes unitários
+- Configurando o jest
+- O que é um mock
+- Utilizando mocks
+- Criando testes de integração
+- AfterAll, BeforeAll
+- AfterEach, BeforeEach
+- Conceitos de TBD
+- Conceitos de TDD

@@ -1,0 +1,31 @@
+- O que é docker
+- O que é um container
+- Comando docker ps
+- Comando docker run
+- Comando docker exec
+- Comando docker stop
+- Comando docker reset
+- O que é uma imagem
+- Arquivo Dockerfile
+- Comando FROM
+- Comando WORKDIR
+- Comando COPY
+- Comando RUN
+- Comando CMD
+- Comando EXPOSE
+- Comando VOLUME
+- Comando docker image ls
+- Arquivo .dockerignore
+- O que é docker compose
+- O que é um arquilo yaml ou yml
+- Arquivo docker-compose.yaml
+- Comando docker compose up
+- Comando docker compose down
+- Comando ports
+- O que são variaveis de ambiente
+- Arquivo .env
+- Comando environment
+- Comando container_name
+- Comando depends_on
+- Conectando com dockerhub
+- Publicando uma imagem no dockerhub
